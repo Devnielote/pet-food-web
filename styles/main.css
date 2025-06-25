@@ -109,15 +109,16 @@ header ul li a:hover {
 }
 
 .products {
-    display: grid;
-    grid-template-rows: repeat(2, auto);
-    align-items: center;
-    width: 100%;
-    background-image: url("/assets/curve.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position-y: 50rem;
+  display: grid;
+  grid-template-rows: repeat(2, auto);
+  align-items: center;
+  width: 100%;
+  padding-inline: 5rem;
+  background-image: url("/assets/curve.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: 50rem;
 }
 
 .products h1 {
