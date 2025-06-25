@@ -114,7 +114,7 @@ header ul li a:hover {
   align-items: center;
   width: 100%;
   padding-inline: 5rem;
-  background-image: url("/assets/curve.png");
+  background-image: url("../assets/curve.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
