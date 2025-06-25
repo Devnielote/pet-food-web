@@ -539,9 +539,6 @@ footer a {
 }
 
 @media (min-width: 740px) {
-    .products {
-    height: 100vh;
-    }
 
     .products__container {
         justify-content: space-around;
