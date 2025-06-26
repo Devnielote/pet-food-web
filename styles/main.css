@@ -113,7 +113,6 @@ header ul li a:hover {
   grid-template-rows: repeat(2, auto);
   align-items: center;
   width: 100%;
-  padding-inline: 5rem;
   background-image: url("../assets/curve.png");
   background-position: center;
   background-repeat: no-repeat;
